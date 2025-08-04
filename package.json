@@ -1,6 +1,6 @@
 {
   "name": "tenzies-game",
-  "homepage": "https://github.com/jiriji/tenzies-game.git",
+  "homepage": "https://jiriji.github.io/tenzies-game/",
   "scripts": {
     "start": "vite",
     "dev": "vite",
