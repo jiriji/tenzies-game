@@ -1,11 +1,13 @@
 {
   "name": "tenzies-game",
-  "description": "https://scrimba.com/learn-react-c0e/~02si/s0f55vapk5/head",
+  "homepage": "https://github.com/jiriji/tenzies-game.git",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "18.3.1",
